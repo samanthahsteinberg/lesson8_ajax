@@ -4,21 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 10, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Samantha Steinberg)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we used AJAX, JSON, and APIs to create a movie review website.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://samanthahsteinberg.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned how an AJAX system works within code and this website.)
+2. (Used the chrome developer tools to understand extra information on the website.)
+3. (Saw how JSON and AJAX interacted with eachother to create a functional website.)
